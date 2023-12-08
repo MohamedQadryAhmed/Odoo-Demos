@@ -1,0 +1,10 @@
+<odoo>
+    <data>
+
+
+        <menuitem id="hospital_root" name="Hospital"/>
+        <menuitem id = 'hospital_patients_data' name ='Patients' parent="hospital_root"/>
+
+    </data>
+
+</odoo>
